@@ -137,7 +137,11 @@
         "warning": null,
         "warning.background": "#141320",
         "warning.border": "#454545",
-        "players": [],
+        "players": [
+          {
+            "selection": "#45456580",
+          },
+        ],
         "syntax": {
           "attribute": {
             "color": "#abe682",
@@ -430,7 +434,11 @@
         "warning": null,
         "warning.background": "#141320",
         "warning.border": "#454545",
-        "players": [],
+        "players": [
+          {
+            "selection": "#45456580",
+          },
+        ],
         "syntax": {
           "attribute": {
             "color": "#abe682",
@@ -723,7 +731,11 @@
         "warning": null,
         "warning.background": "#141320",
         "warning.border": "#454545",
-        "players": [],
+        "players": [
+          {
+            "selection": "#45456580",
+          },
+        ],
         "syntax": {
           "attribute": {
             "color": "#A6E22E",
@@ -991,7 +1003,11 @@
         "warning": null,
         "warning.background": "#141320",
         "warning.border": "#454545",
-        "players": [],
+        "players": [
+          {
+            "selection": "#45456580",
+          },
+        ],
         "syntax": {
           "attribute": {
             "color": "#A6E22E",
