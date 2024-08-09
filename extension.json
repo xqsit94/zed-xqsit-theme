@@ -1,9 +1,0 @@
-{
-  "id": "exquisite",
-  "name": "Exquisite Theme",
-  "version": "0.1.3",
-  "authors": ["Manikandan B <xqsit94@gmail.com>"],
-  "description": "A dark blue theme for better coding experience.",
-  "schema_version": 1,
-  "repository": "https://github.com/xqsit94/zed-xqsit-theme"
-}

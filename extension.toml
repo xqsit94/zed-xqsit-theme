@@ -1,0 +1,7 @@
+id = "exquisite"
+name = "Exquisite Theme"
+description = "A dark blue theme for better coding experience."
+version = "0.1.3"
+schema_version = 1
+authors = ["Manikandan B <xqsit94@gmail.com>"]
+repository = "https://github.com/xqsit94/zed-xqsit-theme"
