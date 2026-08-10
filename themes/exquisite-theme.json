@@ -1,7 +1,6 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Exquisite Theme",
-  "version": "0.1.1",
   "author": "Manikandan B <xqsit94@gmail.com>",
   "themes": [
     {
@@ -34,7 +33,7 @@
         "text.disabled": null,
         "text.accent": null,
         "icon": "#cccccc",
-        "icon.muted": null,
+        "icon.muted": "#8b8b90",
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
@@ -47,8 +46,8 @@
         "search.match_background": null,
         "panel.background": "#171621",
         "panel.focused_border": "#7C7C80",
-        "pane.focused_border": null,
-        "scrollbar_thumb.background": "#282639",
+        "pane.focused_border": "#1a1926",
+        "scrollbar.thumb.background": "#282639",
         "scrollbar.thumb.hover_background": "#282639",
         "scrollbar.thumb.border": "#282639",
         "scrollbar.track.background": "#1a1926",
@@ -56,9 +55,9 @@
         "editor.foreground": "#D9D7CE",
         "editor.background": "#1a1926",
         "editor.gutter.background": "#1a1926",
-        "editor.subheader.background": null,
+        "editor.subheader.background": "#1a1926",
         "editor.active_line.background": "#202231",
-        "editor.highlighted_line.background": null,
+        "editor.highlighted_line.background": "#1a1926",
         "editor.line_number": "#5B5B62",
         "editor.active_line_number": "#D9D7CE",
         "editor.invisible": null,
@@ -67,7 +66,7 @@
         "editor.document_highlight.read_background": "#302d4d",
         "editor.document_highlight.write_background": "#2f3e5e",
         "terminal.background": "#141320",
-        "terminal.foreground": null,
+        "terminal.foreground": "#D9D7CE",
         "terminal.bright_foreground": null,
         "terminal.dim_foreground": null,
         "terminal.ansi.black": "#191E2A",
@@ -131,7 +130,7 @@
         "success": null,
         "success.background": null,
         "success.border": null,
-        "unreachable": null,
+        "unreachable": "#5B5B62",
         "unreachable.background": null,
         "unreachable.border": null,
         "warning": null,
@@ -139,8 +138,8 @@
         "warning.border": "#454545",
         "players": [
           {
-            "selection": "#45456580",
-          },
+            "selection": "#45456580"
+          }
         ],
         "syntax": {
           "attribute": {
@@ -298,7 +297,16 @@
             "font_style": null,
             "font_weight": null
           }
-        }
+        },
+        "panel.overlay_background": "#1a1926",
+        "panel.overlay_hover": "#1a1926",
+        "minimap.thumb.hover_background": "#282639",
+        "minimap.thumb.border": "#282639",
+        "version_control.added": "#00f157",
+        "version_control.deleted": "#b62324",
+        "version_control.modified": "#00b4ff",
+        "version_control.conflict": "#e3b341",
+        "version_control.ignored": "#5B5B62"
       }
     },
     {
@@ -331,7 +339,7 @@
         "text.disabled": null,
         "text.accent": null,
         "icon": "#cccccc",
-        "icon.muted": null,
+        "icon.muted": "#8b8b90",
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
@@ -344,8 +352,8 @@
         "search.match_background": null,
         "panel.background": "#171621",
         "panel.focused_border": "#7C7C80",
-        "pane.focused_border": null,
-        "scrollbar_thumb.background": "#282639",
+        "pane.focused_border": "#1a1926",
+        "scrollbar.thumb.background": "#282639",
         "scrollbar.thumb.hover_background": "#282639",
         "scrollbar.thumb.border": "#282639",
         "scrollbar.track.background": "#1a1926",
@@ -353,9 +361,9 @@
         "editor.foreground": "#D9D7CE",
         "editor.background": "#1a1926",
         "editor.gutter.background": "#1a1926",
-        "editor.subheader.background": null,
+        "editor.subheader.background": "#1a1926",
         "editor.active_line.background": "#202231",
-        "editor.highlighted_line.background": null,
+        "editor.highlighted_line.background": "#1a1926",
         "editor.line_number": "#5B5B62",
         "editor.active_line_number": "#D9D7CE",
         "editor.invisible": null,
@@ -364,7 +372,7 @@
         "editor.document_highlight.read_background": "#302d4d",
         "editor.document_highlight.write_background": "#2f3e5e",
         "terminal.background": "#141320",
-        "terminal.foreground": null,
+        "terminal.foreground": "#D9D7CE",
         "terminal.bright_foreground": null,
         "terminal.dim_foreground": null,
         "terminal.ansi.black": "#191E2A",
@@ -428,7 +436,7 @@
         "success": null,
         "success.background": null,
         "success.border": null,
-        "unreachable": null,
+        "unreachable": "#5B5B62",
         "unreachable.background": null,
         "unreachable.border": null,
         "warning": null,
@@ -436,8 +444,8 @@
         "warning.border": "#454545",
         "players": [
           {
-            "selection": "#45456580",
-          },
+            "selection": "#45456580"
+          }
         ],
         "syntax": {
           "attribute": {
@@ -595,7 +603,16 @@
             "font_style": null,
             "font_weight": null
           }
-        }
+        },
+        "panel.overlay_background": "#1a1926",
+        "panel.overlay_hover": "#1a1926",
+        "minimap.thumb.hover_background": "#282639",
+        "minimap.thumb.border": "#282639",
+        "version_control.added": "#00f157",
+        "version_control.deleted": "#b62324",
+        "version_control.modified": "#00b4ff",
+        "version_control.conflict": "#e3b341",
+        "version_control.ignored": "#5B5B62"
       }
     },
     {
@@ -628,7 +645,7 @@
         "text.disabled": null,
         "text.accent": null,
         "icon": "#cccccc",
-        "icon.muted": null,
+        "icon.muted": "#8b8b90",
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
@@ -641,8 +658,8 @@
         "search.match_background": null,
         "panel.background": "#171621",
         "panel.focused_border": "#7C7C80",
-        "pane.focused_border": null,
-        "scrollbar_thumb.background": "#282639",
+        "pane.focused_border": "#1a1926",
+        "scrollbar.thumb.background": "#282639",
         "scrollbar.thumb.hover_background": "#282639",
         "scrollbar.thumb.border": "#282639",
         "scrollbar.track.background": "#1a1926",
@@ -650,9 +667,9 @@
         "editor.foreground": "#D9D7CE",
         "editor.background": "#1a1926",
         "editor.gutter.background": "#1a1926",
-        "editor.subheader.background": null,
+        "editor.subheader.background": "#1a1926",
         "editor.active_line.background": "#202231",
-        "editor.highlighted_line.background": null,
+        "editor.highlighted_line.background": "#1a1926",
         "editor.line_number": "#5B5B62",
         "editor.active_line_number": "#D9D7CE",
         "editor.invisible": null,
@@ -661,7 +678,7 @@
         "editor.document_highlight.read_background": "#302d4d",
         "editor.document_highlight.write_background": "#2f3e5e",
         "terminal.background": "#141320",
-        "terminal.foreground": null,
+        "terminal.foreground": "#D9D7CE",
         "terminal.bright_foreground": null,
         "terminal.dim_foreground": null,
         "terminal.ansi.black": "#191E2A",
@@ -725,7 +742,7 @@
         "success": null,
         "success.background": null,
         "success.border": null,
-        "unreachable": null,
+        "unreachable": "#5B5B62",
         "unreachable.background": null,
         "unreachable.border": null,
         "warning": null,
@@ -733,8 +750,8 @@
         "warning.border": "#454545",
         "players": [
           {
-            "selection": "#45456580",
-          },
+            "selection": "#45456580"
+          }
         ],
         "syntax": {
           "attribute": {
@@ -867,7 +884,16 @@
             "font_style": null,
             "font_weight": null
           }
-        }
+        },
+        "panel.overlay_background": "#1a1926",
+        "panel.overlay_hover": "#1a1926",
+        "minimap.thumb.hover_background": "#282639",
+        "minimap.thumb.border": "#282639",
+        "version_control.added": "#00f157",
+        "version_control.deleted": "#b62324",
+        "version_control.modified": "#00b4ff",
+        "version_control.conflict": "#e3b341",
+        "version_control.ignored": "#5B5B62"
       }
     },
     {
@@ -900,7 +926,7 @@
         "text.disabled": null,
         "text.accent": null,
         "icon": "#cccccc",
-        "icon.muted": null,
+        "icon.muted": "#8b8b90",
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
@@ -913,8 +939,8 @@
         "search.match_background": null,
         "panel.background": "#171621",
         "panel.focused_border": "#7C7C80",
-        "pane.focused_border": null,
-        "scrollbar_thumb.background": "#282639",
+        "pane.focused_border": "#1a1926",
+        "scrollbar.thumb.background": "#282639",
         "scrollbar.thumb.hover_background": "#282639",
         "scrollbar.thumb.border": "#282639",
         "scrollbar.track.background": "#1a1926",
@@ -922,9 +948,9 @@
         "editor.foreground": "#D9D7CE",
         "editor.background": "#1a1926",
         "editor.gutter.background": "#1a1926",
-        "editor.subheader.background": null,
+        "editor.subheader.background": "#1a1926",
         "editor.active_line.background": "#202231",
-        "editor.highlighted_line.background": null,
+        "editor.highlighted_line.background": "#1a1926",
         "editor.line_number": "#5B5B62",
         "editor.active_line_number": "#D9D7CE",
         "editor.invisible": null,
@@ -933,7 +959,7 @@
         "editor.document_highlight.read_background": "#302d4d",
         "editor.document_highlight.write_background": "#2f3e5e",
         "terminal.background": "#141320",
-        "terminal.foreground": null,
+        "terminal.foreground": "#D9D7CE",
         "terminal.bright_foreground": null,
         "terminal.dim_foreground": null,
         "terminal.ansi.black": "#191E2A",
@@ -997,7 +1023,7 @@
         "success": null,
         "success.background": null,
         "success.border": null,
-        "unreachable": null,
+        "unreachable": "#5B5B62",
         "unreachable.background": null,
         "unreachable.border": null,
         "warning": null,
@@ -1005,8 +1031,8 @@
         "warning.border": "#454545",
         "players": [
           {
-            "selection": "#45456580",
-          },
+            "selection": "#45456580"
+          }
         ],
         "syntax": {
           "attribute": {
@@ -1139,8 +1165,19 @@
             "font_style": null,
             "font_weight": null
           }
-        }
+        },
+        "panel.overlay_background": "#1a1926",
+        "panel.overlay_hover": "#1a1926",
+        "minimap.thumb.hover_background": "#282639",
+        "minimap.thumb.border": "#282639",
+        "version_control.added": "#00f157",
+        "version_control.deleted": "#b62324",
+        "version_control.modified": "#00b4ff",
+        "version_control.conflict": "#e3b341",
+        "version_control.ignored": "#5B5B62"
       }
     }
-  ]
+  ],
+  "isUserGenerated": true,
+  "description": "A dark blue theme for better coding experience."
 }
